@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\alex\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\alex\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_maxpaint.-1301880837.00" t="ExcludeRecursive" />
+    <e p="E:\UnityProjects\!backup\maxpaint\maxpaint" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Addons" t="Include">
+          <e p="WorldMaterialsFree" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="WorldMatFree.shader" t="Include" />
+              <e p="WorldMatHDRPFree.shader" t="Include" />
+              <e p="WorldMatLiteFree.shader" t="Include" />
+              <e p="WorldMatURPFree.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="DesertSun" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="StarManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="MaxPayne" t="Include">
+          <e p="Barrell" t="Include">
+            <e p="Barrel.cs" t="Include" />
+          </e>
+          <e p="InverNormal.cs" t="Include" />
+          <e p="Packs" t="Include">
+            <e p="2DWeaponPack" t="Include">
+              <e p="Sprites" t="Include">
+                <e p="README.txt" t="Include" />
+              </e>
+            </e>
+            <e p="GleyPlugins" t="Include">
+              <e p="About" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AssetState.cs" t="Include" />
+                  <e p="AssetStorePackage.cs" t="Include" />
+                  <e p="AssetVersions.cs" t="Include" />
+                  <e p="EditorFileLoader.cs" t="Include" />
+                  <e p="GleyAboutWindow.cs" t="Include" />
+                  <e p="IconReferences.cs" t="Include" />
+                </e>
+              </e>
+              <e p="AllPlatformsSave" t="Include">
+                <e p="Example" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="GameValues.cs" t="Include" />
+                    <e p="TestSave.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="BinarySerializationFileSave.cs" t="Include" />
+                  <e p="BinarySerializationPlayerPrefs.cs" t="Include" />
+                  <e p="BinarySerializationUtility.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="SaveSettingsWindow.cs" t="Include" />
+                  </e>
+                  <e p="Encryption.cs" t="Include" />
+                  <e p="ISaveClass.cs" t="Include" />
+                  <e p="JSONSerializationFileSave.cs" t="Include" />
+                  <e p="JSONSerializationPlayerPrefs.cs" t="Include" />
+                  <e p="SaveManager.cs" t="Include" />
+                  <e p="SaveSettings.cs" t="Include" />
+                  <e p="Version.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Common" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AssetVersion.cs" t="Include" />
+                  <e p="Constants.cs" t="Include" />
+                  <e p="EditorUtilities.cs" t="Include" />
+                  <e p="ImportRequiredPackages.cs" t="Include" />
+                  <e p="PreprocessorDirective.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="BillingMode.json" t="Include" />
+          </e>
+          <e p="Samples" t="Include">
+            <e p="AI Navigation" t="Include">
+              <e p="1.1.5" t="Include">
+                <e p="Build And Connect NavMesh Surfaces" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="AgentLinkMover.cs" t="Include" />
+                    <e p="ClickToMove.cs" t="Include" />
+                    <e p="Despawner.cs" t="Include" />
+                    <e p="DestroyOnTrigger.cs" t="Include" />
+                    <e p="DungeonManager.cs" t="Include" />
+                    <e p="DynamicNavMeshObject.cs" t="Include" />
+                    <e p="EnableIffSleeping.cs" t="Include" />
+                    <e p="FreeCam.cs" t="Include" />
+                    <e p="GloballyUpdatedNavMeshSurface.cs" t="Include" />
+                    <e p="MeshTool.cs" t="Include" />
+                    <e p="NavigationLoop.cs" t="Include" />
+                    <e p="NavMeshSurfaceVolumeUpdater.cs" t="Include" />
+                    <e p="Oscillator.cs" t="Include" />
+                    <e p="ProjectSettingsUtilities" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="NavigationSampleProjectSettingsGenerator.cs" t="Include" />
+                        <e p="NavigationSampleSettingsState.cs" t="Include" />
+                        <e p="Unity.AI.Navigation.Samples.Initialization.Editor.asmdef" t="Include" />
+                      </e>
+                      <e p="NavigationSampleInitializer.cs" t="Include" />
+                    </e>
+                    <e p="RandomInstancing.cs" t="Include" />
+                    <e p="RandomWalk.cs" t="Include" />
+                    <e p="SpawnPrefabOnKeyDown.cs" t="Include" />
+                  </e>
+                  <e p="Unity.AI.Navigation.Samples.asmdef" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Algos" t="Include">
+              <e p="AlgosMain.cs" t="Include" />
+            </e>
+            <e p="AmmoCountUI.cs" t="Include" />
+            <e p="Behavior" t="Include">
+              <e p="EnemyAI.cs" t="Include" />
+              <e p="EnemyHead.cs" t="Include" />
+              <e p="EnemyHealth.cs" t="Include" />
+              <e p="EnemyMovement.cs" t="Include" />
+            </e>
+            <e p="EnemyController.cs" t="Include" />
+            <e p="Item" t="Include">
+              <e p="BulletMoving.cs" t="Include" />
+              <e p="EnemyShooting.cs" t="Include" />
+              <e p="PickUp.cs" t="Include" />
+              <e p="PistolAmmoPickUp.cs" t="Include" />
+              <e p="Reloader.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="CursorManager.cs" t="Include" />
+              <e p="PauseMenu.cs" t="Include" />
+              <e p="Player" t="Include">
+                <e p="PlayerAnimation.cs" t="Include" />
+                <e p="PlayerHealthManager.cs" t="Include" />
+                <e p="PlayerMovement.cs" t="Include" />
+                <e p="PlayerPhysics.cs" t="Include" />
+                <e p="TimeManager.cs" t="Include" />
+              </e>
+              <e p="PlayerController.cs" t="Include" />
+              <e p="PlayerController2.cs" t="Include" />
+              <e p="Shooting.cs" t="Include" />
+              <e p="StartMenu.cs" t="Include" />
+              <e p="WeaponManager.cs" t="Include" />
+            </e>
+            <e p="Ragdoll.cs" t="Include" />
+            <e p="silentden" t="Include">
+              <e p="DenEnemy.cs" t="Include" />
+              <e p="DenEnemyController.cs" t="Include" />
+            </e>
+            <e p="useless" t="Include">
+              <e p="EnemyShoot.cs" t="Include" />
+              <e p="SimpleJump.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Sketchfab For Unity" t="Include">
+            <e p="Dependencies" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="GLTFBumpToNormal.shader" t="Include" />
+                <e p="GLTFColorSpace.cginc" t="Include" />
+                <e p="GLTFFlipTexture.shader" t="Include" />
+                <e p="GLTFPackOccMetalRough.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AssetBrowser" t="Include">
+                <e p="SketchfabBrowserManager.cs" t="Include" />
+                <e p="SketchfabBrowserWindow.cs" t="Include" />
+                <e p="SketchfabModelWindow.cs" t="Include" />
+              </e>
+              <e p="Resizer.cs" t="Include" />
+              <e p="SketchfabApi.cs" t="Include" />
+              <e p="SketchfabExporter.cs" t="Include" />
+              <e p="SketchfabImporter.cs" t="Include" />
+              <e p="SketchfabImporterWindow.cs" t="Include" />
+              <e p="SketchfabLogger.cs" t="Include" />
+              <e p="SketchfabPlugin.cs" t="Include" />
+              <e p="SketchfabUI.cs" t="Include" />
+            </e>
+          </e>
+          <e p="TextMesh Pro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LiberationSans - OFL.txt" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="LineBreaking Following Characters.txt" t="Include" />
+              <e p="LineBreaking Leading Characters.txt" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF SSD.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Mobile.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="EmojiOne Attribution.txt" t="Include" />
+              <e p="EmojiOne.json" t="Include" />
+            </e>
+          </e>
+          <e p="UI" t="Include">
+            <e p="Max Payne 1" t="Include">
+              <e p="Max Payne 1" t="Include">
+                <e p="R.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="сюжет" t="Include">
+            <e p="1.txt" t="Include" />
+            <e p="2.txt" t="Include" />
+            <e p="3.txt" t="Include" />
+            <e p="глава1" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="глава2" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="глава3" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="глава4" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="глава5" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="глава6" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="глава7" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="глава8" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="глава9" t="Include">
+              <e p="Новый текстовый документ.txt" t="Include" />
+            </e>
+            <e p="главы.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Unity.VisualScripting.Generated" t="Include">
+          <e p="VisualScripting.Core" t="Include">
+            <e p="AotStubs.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="maxpaint.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Unity.AI.Navigation.Samples.csproj" t="IncludeRecursive" />
+      <e p="Unity.AI.Navigation.Samples.Initialization.Editor.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
